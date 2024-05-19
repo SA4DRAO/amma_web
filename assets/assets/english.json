@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "fruits": [
+      {"name": "apple", "filename": "fruits/apple.jpg"},
+      {"name": "orange", "filename": "fruits/orange.jpg"},
+      {"name": "banana", "filename": "fruits/banana.jpg"},
+      {"name": "mango", "filename": "fruits/mango.jpg"},
+      {"name": "grapes", "filename": "fruits/grapes.jpg"},
+      {"name": "cherry", "filename": "fruits/cherry.jpg"},
+      {"name": "papaya", "filename": "fruits/papaya.jpg"}
+    ],
+    "vegetables": [
+      {"name": "potato", "filename": "vegetables/potato.jpg"},
+      {"name": "tomato", "filename": "vegetables/tomato.jpg"},
+      {"name": "ladies finger", "filename": "vegetables/ladies_finger.jpg"},
+      {"name": "brinjal", "filename": "vegetables/brinjal.jpg"},
+      {"name": "beans", "filename": "vegetables/beans.jpg"},
+      {"name": "cabbage", "filename": "vegetables/cabbage.jpg"},
+      {"name": "cauliflower", "filename": "vegetables/cauliflower.jpg"}
+    ],
+    "vehicles": [
+      {"name": "car", "filename": "vehicles/car.jpg"},
+      {"name": "bike", "filename": "vehicles/bike.jpg"},
+      {"name": "bus", "filename": "vehicles/bus.jpg"},
+      {"name": "cycle", "filename": "vehicles/cycle.jpg"},
+      {"name": "ship", "filename": "vehicles/ship.jpg"},
+      {"name": "plane", "filename": "vehicles/plane.jpg"},
+      {"name": "auto", "filename": "vehicles/auto.jpg"},
+      {"name": "train", "filename": "vehicles/train.jpg"}
+    ],
+    "flowers": [
+      {"name": "rose", "filename": "flowers/rose.jpg"},
+      {"name": "lily", "filename": "flowers/lily.jpg"},
+      {"name": "jasmine", "filename": "flowers/jasmine.jpg"},
+      {"name": "marigold", "filename": "flowers/marigold.jpg"},
+      {"name": "lotus", "filename": "flowers/lotus.jpg"},
+      {"name": "sunflower", "filename": "flowers/sunflower.jpg"},
+      {"name": "hibiscus", "filename": "flowers/hibiscus.jpg"}
+    ],
+    "colors": [
+      {"name": "red", "filename": "colors/red.jpg"},
+      {"name": "green", "filename": "colors/green.jpg"},
+      {"name": "blue", "filename": "colors/blue.jpg"},
+      {"name": "yellow", "filename": "colors/yellow.jpg"},
+      {"name": "pink", "filename": "colors/pink.jpg"},
+      {"name": "white", "filename": "colors/white.jpg"},
+      {"name": "black", "filename": "colors/black.jpg"},
+      {"name": "orange", "filename": "colors/orange_c.jpg"}
+    ],
+    "domestic animals": [
+      {"name": "cat", "filename": "domestic animals/cat.jpg"},
+      {"name": "dog", "filename": "domestic animals/dog.jpg"},
+      {"name": "cow", "filename": "domestic animals/cow.jpg"},
+      {"name": "sheep", "filename": "domestic animals/sheep.jpg"},
+      {"name": "donkey", "filename": "domestic animals/donkey.jpg"},
+      {"name": "goat", "filename": "domestic animals/goat.jpg"},
+      {"name": "hen", "filename": "domestic animals/hen.jpg"},
+      {"name": "duck", "filename": "domestic animals/duck.jpg"},
+      {"name": "mouse", "filename": "domestic animals/mouse.jpg"},
+      {"name": "parrot", "filename": "domestic animals/parrot.jpg"},
+      {"name": "pigeon", "filename": "domestic animals/pigeon.jpg"},
+      {"name": "snake", "filename": "domestic animals/snake.jpg"},
+      {"name": "frog", "filename": "domestic animals/frog.jpg"},
+      {"name": "lizard", "filename": "domestic animals/lizard.jpg"}
+    ],
+    "wild animals": [
+      {"name": "tiger", "filename": "wild animals/tiger.jpg"},
+      {"name": "lion", "filename": "wild animals/lion.jpg"},
+      {"name": "monkey", "filename": "wild animals/monkey.jpg"},
+      {"name": "elephant", "filename": "wild animals/elephant.jpg"},
+      {"name": "fox", "filename": "wild animals/fox.jpg"},
+      {"name": "deer", "filename": "wild animals/deer.jpg"},
+      {"name": "zebra", "filename": "wild animals/zebra.jpg"},
+      {"name": "bear", "filename": "wild animals/bear.jpg"},
+      {"name": "eagle", "filename": "wild animals/eagle.jpg"},
+      {"name": "fish", "filename": "wild animals/fish.jpg"}
+    ],
+    "insects": [
+      {"name": "mosquito", "filename": "insects/mosquito.jpg"},
+      {"name": "fly", "filename": "insects/fly.jpg"},
+      {"name": "butterfly", "filename": "insects/butterfly.jpg"},
+      {"name": "spider", "filename": "insects/spider.jpg"}
+    ]
+  }
+}
